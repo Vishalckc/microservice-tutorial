@@ -12,3 +12,10 @@ Read more on microservices design: The twelve-factor app is a methodology for bu
 5. Navigate to  http://localhost:5050/browser/ for postgres UI using pgadmin
 6. open Eureka web console http://localhost:8761/ and verify services are up and running
 7. Use postman to send a post request and expect respone 200 Ok http://localhost:8080/api/v1/customers
+    
+    {
+    "firstName": "Jamila",
+    "lastName": "Hadid",
+    "email":"Jamila@gmail.com"
+    }
+<img width="926" alt="Screenshot 2022-02-28 at 12 42 01" src="https://user-images.githubusercontent.com/17704966/155986339-42211515-ce61-49b6-b735-544e099ec667.png">
