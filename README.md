@@ -2,7 +2,7 @@
 Developing and deploying microservices loclaly using spring cloud, spring boot, eureka
 Multi maven module, JDK 17, Spring boot, Eureka, spring boot JPA, Postgres, Docker, Lombok
 
-Demonstration of how multiple microservices interact with each other using the principles of https://12factor.net/
+Read more on microservices design: The twelve-factor app is a methodology for building software-as-a-service apps https://12factor.net/
 
 **How to Run?**
 1. Run docker compose up -d
